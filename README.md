@@ -1,0 +1,1 @@
+### This is a simple project using ElectronJS to allow a user take customisable selfie shots. The user can select from available photo filters to make the selfie more fun. This is based on a Pluralsight ElectronJS course.
